@@ -1,0 +1,12 @@
+==== things to do ====
+- need to subscribe to: /tag_detections/tagpose
+	- has fields: std_msgs/msg/Header <-- tag ID 
+- need to subscribe to: /tag_detections/tagpose_inertial
+	- has fields: geometry_msgs/msg/Pose <-- position of tag relative to origin
+	
+- give coordinates to go to to start search pattern
+- place apriltag there and make sure drone detects it
+- start search
+- if drone detects object of a certain class, abandon search
+- localize the object detected
+- return to the april tag using its inertial position from the subscriber
