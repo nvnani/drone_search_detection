@@ -1,5 +1,9 @@
 # SEARCH, DETECTION, AND LOCALIZATION OF AN OBJECT USING AERIAL DRONE
 This is the final project for the course ENAE788M: Hands on Autonomous Aerial Robotics. The project focuses on state estimation, object detection using Yolo v5, and localization of an object using a tracking camera
+
+Manuscript: https://shorturl.at/3LLEL
+Demo: https://youtu.be/0m49_NMmelI
+
 ### Software dependencies
 ```
 ROS Foxy
